@@ -8,3 +8,8 @@ st1538
 **Favorite Lnix Command**
 
 htop
+## EUID
+st1538
+
+## Favorite Linux Command
+ls -lah  # list files with human-readable sizes
